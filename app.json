@@ -1,0 +1,15 @@
+{
+  "expo": {
+   "name": "Education Hub",
+   "version": "1.0.0",
+   "slug": "your-app-slug",
+   "ios": {
+     "bundleIdentifier": "com.theAppBuilder.EducationHub",
+     "buildNumber": "1.0.0"
+   },
+   "android": {
+     "package": "com.theAppBuilder.EducationHub",
+     "versionCode": 1
+   }
+  }
+}
