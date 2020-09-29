@@ -4,7 +4,6 @@ import data from "./Companies";
 
 
 const AllCompany=({navigation})=>{
-  console.log(navigation);
   return (
     <View style={styles.Alltopics}>
       <ScrollView horizontal showsHorizontalScrollIndicator={false} style={styles.ScrollView}>

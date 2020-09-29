@@ -8,7 +8,6 @@ import NokiaHomePage from './Nokia/Nokia';
 import TcsHomePage from './TCS/TcsHpmepage';
 
 const CompanyDetails =({navigation,route})=>{
-    console.log(route.params.compName);
     if(route.params.compName==="Amazon")
     {    return (
             <View>
